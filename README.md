@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # tailwindcssLandingPage
 Tailwind CSS Practice
 =======
